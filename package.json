@@ -1,6 +1,6 @@
 {
   "name": "egg-view-react",
-  "version": "1.1.0",
+  "version": "1.1.0-1",
   "description": "egg view plugin for react",
   "eggPlugin": {
     "name": "react",
@@ -16,8 +16,8 @@
     "react"
   ],
   "dependencies": {
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
   },
   "devDependencies": {
     "autod": "^2.8.0",
